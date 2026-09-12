@@ -91,6 +91,21 @@ Real-time industrial monitoring platform serving multiple manufacturing faciliti
 - 📊 Live **Highcharts** dashboards with advanced filtering
 - 🛠️ **Stack:** React, Node.js, Socket.IO, PostgreSQL, Highcharts
 
+### 🏥 Krinexiya — School Management ERP & Digital Solutions
+
+A technology company I co-build, helping educational institutions transform
+their operations into smart, automated, and digitally secured systems.
+
+From ERP to biometric attendance and hostel telephone card systems, we deliver
+reliable and scalable IT solutions tailored for real-world needs.
+
+- 🌐 **Website:** [krinexiya.com](https://krinexiya.com)
+- 📱 **Android App:** [KRINEXIYA on Google Play](https://play.google.com/store/apps/details?id=com.krinexiyaorganization.ojas)
+- 🏫 **Trusted by:** Loyola School, St. Mary's English School, Birsa Residential School, St. Kabir Seminary, and more
+- 🛠️ **Stack:** React, React Native, Node.js, Express, PostgreSQL, MongoDB, Java Spring Boot, Kafka
+
+[![Play Store](https://img.shields.io/badge/Google_Play-KRINEXIYA-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.krinexiyaorganization.ojas)
+[![Website](https://img.shields.io/badge/Website-krinexiya.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krinexiya.com)
 ---
 
 ## 📊 GitHub Stats
