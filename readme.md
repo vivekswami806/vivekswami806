@@ -21,7 +21,7 @@
 
 ## 💡 About Me
 
-Full-Stack Developer with **4.5+ years of experience** building production-grade web and mobile applications — from e-commerce platforms to real-time industrial monitoring systems.
+Full-Stack Developer with **5 years of experience** building production-grade web and mobile applications — from e-commerce platforms to real-time industrial monitoring systems.
 
 I specialize in **React, React Native (Expo), Node.js, TypeScript, and PostgreSQL/MongoDB**, with a strong focus on **real-time communication (Socket.IO/WebSocket), REST API design, and performance optimization**.
 
