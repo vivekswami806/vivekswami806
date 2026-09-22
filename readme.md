@@ -25,8 +25,6 @@ Full-Stack Developer with **5 years of experience** building production-grade we
 
 I specialize in **React, React Native (Expo), Node.js, TypeScript, and PostgreSQL/MongoDB**, with a strong focus on **real-time communication (Socket.IO/WebSocket), REST API design, and performance optimization**.
 
-I enjoy turning complex requirements into reliable, high-performance applications — and I've shipped measurable wins: **40% faster data communication**, **47% faster page loads**, and **60% less processing time** on background pipelines.
-
 -  Currently building real-time SCADA monitoring dashboards
 -  Exploring system design & scalable backend architecture
 -  Ask me about **MERN, React Native, Socket.IO, or PostgreSQL**
