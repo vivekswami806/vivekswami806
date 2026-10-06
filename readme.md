@@ -68,7 +68,7 @@ I specialize in **React, React Native (Expo), Node.js, TypeScript, and PostgreSQ
 `SCADA Systems` · `Real-Time Monitoring` · `Industrial Data Visualization` · `Socket.IO / WebSocket` · `Microservices` · `Async Job Queues (BullMQ)`
 
 ---
-
+/*
 ##  Featured Projects
 
 ### 🏥 Krinexiya AI — Health Analytics Platform
@@ -96,7 +96,7 @@ their operations into smart, automated, and digitally secured systems.
 
 From ERP to biometric attendance and hostel telephone card systems, we deliver
 reliable and scalable IT solutions tailored for real-world needs.
-
+*/
 -  **Website:** [krinexiya.com](https://krinexiya.com)
 -  **Android App:** [KRINEXIYA on Google Play](https://play.google.com/store/apps/details?id=com.krinexiyaorganization.ojas)
 -  **Trusted by:** Loyola School, St. Mary's English School, Birsa Residential School, St. Kabir Seminary, and more
