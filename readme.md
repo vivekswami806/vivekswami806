@@ -67,36 +67,7 @@ I specialize in **React, React Native (Expo), Node.js, TypeScript, and PostgreSQ
 ### Specialized Expertise
 `SCADA Systems` · `Real-Time Monitoring` · `Industrial Data Visualization` · `Socket.IO / WebSocket` · `Microservices` · `Async Job Queues (BullMQ)`
 
----
-/*
-##  Featured Projects
 
-### 🏥 Krinexiya AI — Health Analytics Platform
-AI-powered platform that automates medical report analysis and tracks disease history for healthcare providers.
-- Reduced medical document processing time by **60%** using **BullMQ** async pipelines
-- Comparative analysis across 2-year periods with **18% fluctuation precision**
-- **Stack:** Node.js, Express, BullMQ, MongoDB, React
-
-###  OBD Campaign Manager — Mobile App
-Full-stack outbound call campaign manager for an educational institution.
--  Built with **React Native (Expo)** + third-party OBD API integration
--  Created an **FFmpeg audio conversion microservice** to solve Android format limits
--  **Stack:** React Native (Expo), Node.js, Express, FFmpeg
-
-### 📈 SCADA Monitoring & Real-Time Control System
-Real-time industrial monitoring platform serving multiple manufacturing facilities.
--  **40% faster** device communication with **sub-second** updates via Socket.IO
--  Live **Highcharts** dashboards with advanced filtering
--  **Stack:** React, Node.js, Socket.IO, PostgreSQL, Highcharts
-
-###  Krinexiya — School Management ERP & Digital Solutions
-
-A technology company I co-build, helping educational institutions transform
-their operations into smart, automated, and digitally secured systems.
-
-From ERP to biometric attendance and hostel telephone card systems, we deliver
-reliable and scalable IT solutions tailored for real-world needs.
-*/
 -  **Website:** [krinexiya.com](https://krinexiya.com)
 -  **Android App:** [KRINEXIYA on Google Play](https://play.google.com/store/apps/details?id=com.krinexiyaorganization.ojas)
 -  **Trusted by:** Loyola School, St. Mary's English School, Birsa Residential School, St. Kabir Seminary, and more
